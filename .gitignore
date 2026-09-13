@@ -78,3 +78,7 @@ build/
 # CUDA/GPU
 *.ptx
 *.cubin
+
+# Demo/test files (local only)
+demo.ipynb
+hello.py
